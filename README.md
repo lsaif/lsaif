@@ -1,7 +1,5 @@
 ### Hi there, I'm Luthfi 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m a petrophysicist
 - 🌱 I’m currently learning modeling and machine learning
 - 📫 How to reach me: luthfinurul41@gmail.com
